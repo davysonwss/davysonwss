@@ -1,10 +1,10 @@
-### Hi, I'm Davyson William! 🙋‍♂️
+### Hi, I'm Davyson William! 🙋‍♂️ <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davyson_wss/)
+A front-end student passionate about technology. <br/><br/>
 
-![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Davysonwss&show_icons=true&theme=dracula)
+![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Davysonwss&show_icons=true&theme=dracula)<br/>
 
-## Technologies I use in my daily life:
+### Technologies I use in my daily life:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,8 +12,6 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-A front-end student passionate about technology.
-
-### Latest Projects:
+### Latest projects:
 
 - [To-do-App](https://github.com/Davysonwss/to-do-app)
