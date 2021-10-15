@@ -1,3 +1,5 @@
+<img src="./images/rainbow.png" alt="Colored line representing the Pride Flag "/>
+
 ### Hi, I'm Davyson William! 🙋‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davyson_wss/)
