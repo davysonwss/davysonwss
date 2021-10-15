@@ -12,7 +12,7 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Sou um estudante de front-end apaixonado por tecnologia.
+Um estudante de front-end apaixonado por tecnologia.
 
 ### Ultimos Projetos:
 
