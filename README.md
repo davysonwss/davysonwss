@@ -14,4 +14,9 @@ A front-end student passionate about technology. <br/><br/>
 
 ### Latest projects:
 
+- [Random-Jokes](https://github.com/davysonwss/random-jokes)
+- [Palindrome-Checker](https://github.com/davysonwss/palindrome-checker)
+- [Counter](https://github.com/davysonwss/counter)
 - [To-do-App](https://github.com/Davysonwss/to-do-app)
+
+
