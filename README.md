@@ -2,7 +2,7 @@
 
 A front-end student passionate about technology. <br/><br/>
 
-![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Davysonwss&show_icons=true&theme=dracula)<br/>
+![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=davysonwss&show_icons=true&theme=dracula)<br/>
 
 ### Technologies I use in my daily life:
 
