@@ -13,11 +13,3 @@ A front-end student passionate about technology. <br/><br/>
 </div><br/>
 
 ### Latest projects:
-
-- [Tip-Calculator](https://github.com/davysonwss/tip-calculator)
-- [Random-Jokes](https://github.com/davysonwss/random-jokes)
-- [Palindrome-Checker](https://github.com/davysonwss/palindrome-checker)
-- [Counter](https://github.com/davysonwss/counter)
-- [To-do-App](https://github.com/Davysonwss/to-do-app)
-
-
