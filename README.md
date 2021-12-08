@@ -1,6 +1,6 @@
 ### Hi, I'm Davyson William! 🙋‍♂️ <br/>
 
-A front-end student passionate about technology. <br/><br/>
+Front-end developer passionate about technology. <br/><br/>
 
 ![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=davysonwss&show_icons=true&theme=dracula)<br/>
 
