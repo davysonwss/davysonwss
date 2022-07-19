@@ -20,6 +20,3 @@ Desenvolvedor front-end apaixonado por tecnologia. <br/><br/>
 
 - [Marvel Heroes](https://github.com/davysonwss/marvel-heroes)
 - [GitHub Search](https://github.com/davysonwss/github-search)
-- [Gift Chooser](https://github.com/davysonwss/gift-chooser)
-- [Shopping Cart](https://github.com/davysonwss/shopping-cart)
-- [Viagens Landing Page](https://github.com/davysonwss/viagens-landing-page)
