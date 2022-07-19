@@ -4,7 +4,7 @@ Desenvolvedor front-end apaixonado por tecnologia. <br/><br/>
 
 ![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=davysonwss&show_icons=true&theme=dracula)<br/>
 
-### Technologies I use in my daily life:
+### Tecnologias que utilizo no meu dia-a-dia:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
