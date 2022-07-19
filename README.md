@@ -1,6 +1,6 @@
-### Hi, I'm Davyson William! 🙋‍♂️ <br/>
+### Olá, sou Davyson William! 🙋‍♂️ <br/>
 
-Front-end developer passionate about technology. <br/><br/>
+Desenvolvedor front-end apaixonado por tecnologia. <br/><br/>
 
 ![Davyson GitHub stats](https://github-readme-stats.vercel.app/api?username=davysonwss&show_icons=true&theme=dracula)<br/>
 
@@ -16,7 +16,7 @@ Front-end developer passionate about technology. <br/><br/>
   
 </div><br/>
 
-### Latest projects:
+### Ultimos projetos:
 
 - [Marvel Heroes](https://github.com/davysonwss/marvel-heroes)
 - [GitHub Search](https://github.com/davysonwss/github-search)
